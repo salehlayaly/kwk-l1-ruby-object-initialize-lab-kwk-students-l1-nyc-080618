@@ -6,4 +6,4 @@
     end 
   end
   
-  dog = Dog.new(name) 
+  dog = Dog.new("name") 
